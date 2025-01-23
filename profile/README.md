@@ -21,7 +21,7 @@ Welcome to **bogware**—where automation ideas grow. We specialize in building 
 
 ## About Us
 
-At Bogware, our mission is to **empower organizations with seamless automation** and **intelligent software solutions**. Our diverse team of developers and AI enthusiasts is passionate about cutting-edge technology, delivering products that **solve real-world problems** and **enhance operational efficiency**.
+At bogware, our mission is to **empower organizations with seamless automation** and **intelligent software solutions**. Our diverse team of developers and AI enthusiasts is passionate about cutting-edge technology, delivering products that **solve real-world problems** and **enhance operational efficiency**.
 
 ---
 
@@ -64,18 +64,18 @@ We embrace the best tools for the job. Our typical stack includes:
 
 | Category           | Technologies                                      |
 |--------------------|--------------------------------------------------|
-| **Programming**    | Python, JavaScript, TypeScript, C#, Go           |
+| **Programming**    | Python, JavaScript, TypeScript, C#, VB           |
 | **Frameworks**     | React, Next.js, Node.js, .NET, Flask, FastAPI    |
-| **AI/ML**          | TensorFlow, PyTorch, scikit-learn                |
-| **Database**       | PostgreSQL, MongoDB, MySQL, Redis                |
+| **AI/ML**          | TensorFlow, PyTorch,                             |
+| **Database**       | DynamoDB, PostgreSQL, MySQL                      |
 | **DevOps & Cloud** | Docker, Kubernetes, Terraform, AWS, Azure, GCP   |
-| **CI/CD**          | GitHub Actions, Jenkins, GitLab CI, Argo CD      |
+| **CI/CD**          | Azure DevOps Pipelines, GitHub Actions, GitLab CI|
 
 ---
 
 ## Get Involved
 
-We love collaborating with the open-source community. If you’d like to contribute to a Bogware project:
+We love collaborating with the open-source community. If you’d like to contribute to a bogware project:
 
 1. **Fork** the repository you’re interested in.  
 2. Create a new **feature branch**.  
@@ -91,17 +91,13 @@ We’ll review your submission as soon as possible. Contributions that improve p
 - **Website**: [Bogware Official Site](#)  
 - **Email**: [info@bogware.com](mailto:info@bogware.com)  
 - **Twitter**: [@bogware](#)  
-- **LinkedIn**: [Bogware, Inc.](#)
+- **LinkedIn**: [bogware, Inc.](#)
 
 Whether you’re interested in a custom solution or want to collaborate on an open-source project, **get in touch**—we’d love to work with you.
 
 <p align="center">
-  <em>Thank you for visiting Bogware. We look forward to innovating together!</em>
+  <em>Thank you for visiting bogware. We look forward to innovating together!</em>
 </p>
-
----
-
-*This README is proudly powered by Bogware’s passion for automation and innovation.*
 
 <!--
 
