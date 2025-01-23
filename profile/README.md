@@ -1,10 +1,10 @@
-# Bogware
+# bogware
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bogware-Innovation%20Through%20Automation-brightgreen.svg?style=flat-square" alt="Bogware Badge">
 </p>
 
-Welcome to **Bogware**—where automation meets innovation! We specialize in building cutting-edge solutions to streamline workflows, enhance productivity, and scale your business to new heights.
+Welcome to **bogware**—where automation ideas grow. We specialize in building cutting-edge solutions to streamline workflows, enhance productivity, and scale your business to new heights.
 
 ---
 
