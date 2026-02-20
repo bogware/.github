@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Bogware-Innovation%20Through%20Automation-brightgreen.svg?style=flat-square" alt="Bogware Badge">
 </p>
 
-Welcome to **bogware**—where automation ideas grow. We specialize in building cutting-edge solutions to streamline workflows, enhance productivity, and scale your business to new heights.
+Welcome to **bogware**—where ideas, hardwork, and fun creates great results. We specialize in building cutting-edge solutions to setup infrastructure, migrate resources, streamline workflows, enhance productivity, and help you grow.
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to **bogware**—where automation ideas grow. We specialize in building 
 
 ## About Us
 
-At bogware, our mission is to **empower organizations with seamless automation** and **intelligent software solutions**. Our diverse team of developers and AI enthusiasts is passionate about cutting-edge technology, delivering products that **solve real-world problems** and **enhance operational efficiency**.
+At bogware, our mission is to **empower organizations with automation** and **intelligent software solutions**. Our diverse team of developers and AI enthusiasts is passionate about cutting-edge technology, delivering products that **solve real-world problems** and **enhance operational efficiency**.
 
 ---
 
@@ -29,12 +29,12 @@ At bogware, our mission is to **empower organizations with seamless automation**
 
 We thrive on **end-to-end development**—from design and implementation to deployment and beyond. Our core areas of focus include:
 
-- **AI & Automation**: We build AI-driven solutions that enable businesses to automate repetitive tasks, drive insights, and improve decision-making.  
+- **AI & Automation**: We build AI-driven solutions that enable businesses to automate repetitive tasks, drive insights, and improve decision-making.
+- **Cloud & CI/CD DevOps**: Modern, cloud-native setups and streamlined CI/CD pipelines to ensure fast, reliable, and secure software delivery.
 - **Scripts & Tools**: Custom command-line scripts and utilities for data processing, system maintenance, and more.  
 - **Console & Desktop Apps**: Cross-platform, high-performance applications tailored to your unique needs.  
 - **APIs & Microservices**: Scalable RESTful APIs, GraphQL layers, and microservices for robust and flexible back-end infrastructure.  
 - **Websites & UIs**: From sleek single-page applications to enterprise-grade portals, we create visually compelling and user-friendly interfaces.  
-- **Cloud & CI/CD DevOps**: Modern, cloud-native setups and streamlined CI/CD pipelines to ensure fast, reliable, and secure software delivery.
 
 ---
 
