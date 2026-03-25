@@ -5,6 +5,7 @@
 </p>
 
 Welcome to **bogware**—where ideas, hardwork, and fun creates great results. We specialize in building cutting-edge solutions to setup infrastructure, migrate resources, streamline workflows, enhance productivity, and help you grow.
+We also love our added mission of developing simple yet powerful open-source solutions to solve real life problems, that anyone can use for free.
 
 ---
 
@@ -41,7 +42,8 @@ We thrive on **end-to-end development**—from design and implementation to depl
 ## Featured Services
 
 ### 1. AI Automation Solutions
-- **ML & Deep Learning**: Predictive models, image recognition, NLP, and more.  
+- **Chatbots for anything**: Everything you could want for your own domain-specific chatbot.
+- **Coding tools**: Help you use and implement coding CLI tools. Claude Code/Codex/Gemini CLI/Kiro/bog-agents
 - **RPA (Robotic Process Automation)**: Automating repetitive tasks to boost productivity and reduce errors.
 
 ### 2. Advanced Scripting & Tools
@@ -64,11 +66,11 @@ We embrace the best tools for the job. Our typical stack includes:
 
 | Category           | Technologies                                      |
 |--------------------|--------------------------------------------------|
-| **Programming**    | Python, JavaScript, TypeScript, C#, VB           |
+| **Programming**    | Python, C#, TypeScript, C++, VB                  |
 | **Frameworks**     | React, Next.js, Node.js, .NET, Flask, FastAPI    |
-| **AI/ML**          | TensorFlow, PyTorch,                             |
+| **AI/ML**          | TensorFlow, PyTorch                              |
 | **Database**       | DynamoDB, PostgreSQL, MySQL                      |
-| **DevOps & Cloud** | Docker, Kubernetes, Terraform, AWS, Azure, GCP   |
+| **DevOps & Cloud** | AWS, Azure Cloud, Terraform, Docker, GitHub/ADO  |
 | **CI/CD**          | Azure DevOps Pipelines, GitHub Actions, GitLab CI|
 
 ---
@@ -87,7 +89,7 @@ We’ll review your submission as soon as possible. Contributions that improve p
 ---
 
 ## Contact Us
-
+(Under maintenance, will be back soon...)
 - **Website**: [Bogware Official Site](#)  
 - **Email**: [info@bogware.com](mailto:info@bogware.com)  
 - **Twitter**: [@bogware](#)  
@@ -96,7 +98,7 @@ We’ll review your submission as soon as possible. Contributions that improve p
 Whether you’re interested in a custom solution or want to collaborate on an open-source project, **get in touch**—we’d love to work with you.
 
 <p align="center">
-  <em>Thank you for visiting bogware. We look forward to innovating together!</em>
+  <em>Thank you for visiting bogware's GitHub page. We look forward to innovating together!</em>
 </p>
 
 <!--
