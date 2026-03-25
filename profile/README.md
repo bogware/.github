@@ -1,7 +1,7 @@
 # bogware
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bogware-Innovation%20Through%20Automation-brightgreen.svg?style=flat-square" alt="Bogware Badge">
+  <img src="https://img.shields.io/badge/bogware-pass%20through%20in%20harmony-green?style=flat-square&color=%23147848" alt="Bogware Badge">
 </p>
 
 Welcome to **bogware**—where ideas, hardwork, and fun creates great results. We specialize in building cutting-edge solutions to setup infrastructure, migrate resources, streamline workflows, enhance productivity, and help you grow.
