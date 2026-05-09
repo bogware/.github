@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/bogware-pass%20through%20in%20harmony-green?style=flat-square&color=%23147848" alt="Bogware Badge">
 </p>
 
-Welcome to **bogware**—where ideas, hardwork, and fun creates great results. We specialize in building cutting-edge solutions to setup infrastructure, migrate resources, streamline workflows, enhance productivity, and help you grow.
+Welcome to **bogware**—where ideas, hardwork, and fun creates great results. We specialize in building cutting-edge solutions to setup infrastructure, migrate resources, streamline workflows, and enhance productivity.
 We also love our added mission of developing simple yet powerful open-source solutions to solve real life problems, that anyone can use for free.
 
 ---
@@ -89,16 +89,11 @@ We’ll review your submission as soon as possible. Contributions that improve p
 ---
 
 ## Contact Us
-(Under maintenance, will be back soon...)
-- **Website**: [Bogware Official Site](#)  
+- **Website**: [Bogware Official Site](bogware.com)  
 - **Email**: [info@bogware.com](mailto:info@bogware.com)  
-- **Twitter**: [@bogware](#)  
-- **LinkedIn**: [bogware, Inc.](#)
-
-Whether you’re interested in a custom solution or want to collaborate on an open-source project, **get in touch**—we’d love to work with you.
 
 <p align="center">
-  <em>Thank you for visiting bogware's GitHub page. We look forward to innovating together!</em>
+  <em>Thank you for visiting bogware's GitHub page!</em>
 </p>
 
 <!--
