@@ -89,7 +89,7 @@ We’ll review your submission as soon as possible. Contributions that improve p
 ---
 
 ## Contact Us
-- **Website**: [Bogware Official Site](bogware.com)  
+- **Website**: [Bogware Official Site](https://bogware.com)  
 - **Email**: [info@bogware.com](mailto:info@bogware.com)  
 
 <p align="center">
